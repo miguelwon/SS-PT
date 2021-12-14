@@ -2,7 +2,7 @@
 SS-PT: A Stance and Sentiment data set from Portuguese quoted tweets
 
 
-Public repository of a corpus made of **16655**  tweets written in Portuguese and annotated to sentiment and stance position. The corpus is specially focused in political tweets and is the first Portuguese corpus annoated for stance position. More details can be found in the following paper:
+Public repository of a corpus made of **16655 tweets** written in Portuguese and annotated to sentiment and stance position. The corpus is specially focused on political tweets and is the first Portuguese corpus annotated for stance position. More details can be found in the following paper:
 
 Won, Miguel and Fernandes, Jorge. *SS-PT: A Stance and Sentiment data set from Portuguese quoted tweets.* Accepted at 15th International Conference, PROPOR.
 
